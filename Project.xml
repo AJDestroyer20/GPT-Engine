@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+  <meta title="FNF: GPT Engine" package="fun.gptengine.fnf" version="0.1.0" company="GPT Engine contributors" />
+  <app main="Main" file="FNF-GPT-Engine" path="export" />
+  <source path="source" />
+  <assets path="assets" rename="assets" />
+  <haxelib name="flixel" />
+  <haxelib name="openfl" />
+  <haxedef name="FLX_NO_DEBUG" unless="debug" />
+  <window width="1280" height="720" fps="60" background="#000000" />
+</project>
