@@ -1,0 +1,15 @@
+{
+  "name": "fnf-gpt-engine",
+  "url": "https://example.invalid/fnf-gpt-engine",
+  "license": "MIT",
+  "tags": ["haxe", "haxeflixel", "friday-night-funkin", "parody"],
+  "description": "Clean-room parody FNF-style engine scaffold generated as a technical experiment.",
+  "version": "0.1.0",
+  "classPath": "source",
+  "releasenote": "Initial engine scaffold.",
+  "contributors": ["GPT Engine contributors"],
+  "dependencies": {
+    "flixel": "",
+    "openfl": ""
+  }
+}

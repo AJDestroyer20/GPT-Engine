@@ -1,0 +1,11 @@
+{
+  "weeks": [
+    { "id": "tutorial", "songs": ["tutorial"] },
+    { "id": "week1", "songs": [] },
+    { "id": "week2", "songs": [] },
+    { "id": "week3", "songs": [] },
+    { "id": "week4", "songs": [] },
+    { "id": "week5", "songs": [] },
+    { "id": "week6", "songs": [] }
+  ]
+}
